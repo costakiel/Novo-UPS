@@ -1,0 +1,10 @@
+/meu-site-romantico/
+│
+├── index.html               ← Página principal do site
+├── style.css                ← Estilos do site (design romântico e responsivo)
+├── script.js                ← Scripts para contador, carrossel e player de música
+├── assets/
+│   ├── imagens/             ← Imagens do carrossel (vêm do Google Drive)
+│   ├── videos/              ← Vídeos (Google Drive)
+│   └── musicas/             ← Músicas (Google Drive)
+└── README.md                ← (Opcional) Instruções do projeto
